@@ -7,7 +7,7 @@
 <!-- <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/> -->
 
 - Busco trabalho na área de programação; 👨🏻‍💻 
-- Experiência profissional: Trabalhei no setor administrativo de duas empresas, uma empresa familiar de calçados e na Ortobom, além de alguns freelas. Atualemnte sou atendente de SAC na empresa Arezzo! 💼
+- Experiência profissional: Trabalhei no setor administrativo de duas empresas, uma empresa familiar de calçados e na Ortobom, além de alguns freelas. Atualemnte sou desenvolvedor Chatbot na empresa Arezzo! 💼
 - Formação acadêmica:<a href="https://lp.warren.com.br/warren-academy-tech-poa" alt="Warren"> Warren Tech Academy - (Senac Tech RS);</a> 
   Participando da 14º edição do programa Starter Full Stack Web Developer <a href="https://www.growdev.com.br/" alt="growdev site"> Growdev;</a> 
 - Email: contatokrabbe@gmail.com 🌐 
